@@ -1,0 +1,7 @@
+Apt Upgrade && Apt Update
+pkg install php
+pkg install git
+Git clone https://github.com/Kandol/CallSpam
+cd CallSpam
+ls
+php SpamCall.php
